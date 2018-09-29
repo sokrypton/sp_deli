@@ -6,3 +6,9 @@ A variational autoencoder (VAE) is used to learn a reduced representation of the
 The mean (&mu;) and standard deviation (&sigma;) are used for plotting. The black circles indicate the &mu;. The transparent colors show the &sigma; (100 sampled "Z" or latent variables for each organism). For the following animation, we show the change of &mu; and &sigma; during optimization (1 frame per 10 epoches).
 
 ![Animation](Metano_UCE_SNPs_50percent.gif)
+- Green = idaho
+- Pink = navarrus
+- Blue = cascadus
+- Cyan = setulusS
+- Yellow = setulusN
+- Orange = mazamus
